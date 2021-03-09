@@ -11,7 +11,7 @@
 
 @section('content')
 
-{{$receta}}
+
 
     <h2 class="text-center mb-5"> Editar Receta: {{$receta->nombre}}</h2>
         <div class="row justify-content-center mt-5">
